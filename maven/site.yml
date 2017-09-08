@@ -1,0 +1,6 @@
+---
+# playbook for maven
+
+- hosts: linux:window
+  roles:
+    - maven
