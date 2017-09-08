@@ -1,0 +1,4 @@
+# from github, overriding the name and specifying a specific tag
+- src: https://github.com/aedoop/ansible-role-jdk
+  version: master
+  name: jdk
