@@ -1,0 +1,6 @@
+---
+# playbook for ansible
+
+- hosts: linux
+  roles:
+    - ansible

@@ -1,0 +1,6 @@
+---
+# playbook for git
+
+- hosts: linux
+  roles:
+    - git

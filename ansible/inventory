@@ -1,0 +1,7 @@
+[linux]
+10.0.228.101
+10.0.228.102
+10.0.228.103
+[linux:vars]
+ansible_ssh_user=root
+ansible_ssh_pass=wzstiger
