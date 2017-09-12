@@ -7,10 +7,10 @@ ansible_ssh_user=root
 ansible_ssh_pass=wzstiger
 
 [window]
-10.0.0.88
+10.0.2.159
 [window:vars]
-ansible_ssh_user="tlw"
-ansible_ssh_pass="tlw"
+ansible_ssh_user="administrator"
+ansible_ssh_pass="test"
 ansible_ssh_port=5985
 ansible_connection="winrm"
 ansible_winrm_server_cert_validation=ignore

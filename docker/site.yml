@@ -1,6 +1,6 @@
 ---
 # playbook for docker
 
-- hosts: linux
+- hosts: all
   roles:
     - docker
